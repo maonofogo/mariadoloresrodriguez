@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'MariaDolores';
+  src: url('https://maonofogo.github.io/mariadoloresrodriguez/MariaDolores.ttf') format('truetype');
+  font-weight: ;
+  font-style: ;
+  font-display: ;
+}
 h1 {
   font-family: 'MariaDolores';
   font-weight: normal;
